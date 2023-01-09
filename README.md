@@ -1,4 +1,4 @@
-# Produto_Rei-do-Pitaco
+# Produto Rei do Pitaco
 Estudo e simulação para a criação de um novo produto para o fantasy game "Rei do Pitaco"
 
 Neste estudo, vou propor a criação de um novo produto para o _fantasy game_ Rei do Pitaco baseado no produto Dobro ou Nada, que já existe no site.
